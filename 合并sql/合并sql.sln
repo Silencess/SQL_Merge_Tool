@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "合并sql", "合并sql\合并sql.csproj", "{4F4C4E0B-6143-4EFC-B3E8-6C71C51A4EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4C4E0B-6143-4EFC-B3E8-6C71C51A4EC6}.Debug|x86.ActiveCfg = Debug|x86
+		{4F4C4E0B-6143-4EFC-B3E8-6C71C51A4EC6}.Debug|x86.Build.0 = Debug|x86
+		{4F4C4E0B-6143-4EFC-B3E8-6C71C51A4EC6}.Release|x86.ActiveCfg = Release|x86
+		{4F4C4E0B-6143-4EFC-B3E8-6C71C51A4EC6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
